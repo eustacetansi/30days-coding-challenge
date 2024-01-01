@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.intro{
+    width: 75% !important;
+    margin: auto !important;
+    
+}
+.my-services{
+      background: url("./Background.png"); 
+      background-repeat: no-repeat; 
+      background-size: cover;
+}
